@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-hi, i'm [Sinnoor C](https://www.instagram.com/sinnoor___/), a passionate self-taught flutter developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Sinnoor C](https://www.instagram.com/sinnoor___/), a passionate self-taught flutter developer from India.My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I take great care in the experience, architecture, and code quality of the things I build.
 
 
 **Languages and tools:**  
@@ -24,7 +24,7 @@ hi, i'm [Sinnoor C](https://www.instagram.com/sinnoor___/), a passionate self-ta
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinnoorc&hide=javascript,html&text_color=FFFFFF&bg_color=22272E&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-**Follow me on 💝 **  
+**Follow me on 💝**  
 
 <a href="https://twitter.com/sinnoor_c">
   <img align="left" alt="Sinnoor C | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
