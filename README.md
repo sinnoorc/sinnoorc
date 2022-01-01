@@ -1,1 +1,1 @@
-[![](https://github-readme-stats.vercel.app/api?username=sinnoorc&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=sinnoorc&show_icons=true&title_color=00E6C7&bg_color=27292E&icon_color=00E6C7&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
