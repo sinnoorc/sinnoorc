@@ -36,12 +36,10 @@
   <img align="left" alt="Sinnoor C | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<!-- 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
+<br />
 
 ---
 
-<br />
 <br />
 
 ### Spotify Playing 🎧
