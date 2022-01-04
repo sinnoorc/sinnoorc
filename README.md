@@ -39,8 +39,12 @@
 <!-- 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
+---
+
+<br />
+<br />
+
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/wym0eogg5fqdc92gdjxw2o9go?si=kxulLaWTRKeEMN1Tqx4JVw&utm_source=copy-link&nd=1)
 
----
