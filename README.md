@@ -27,19 +27,22 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinnoorc&hide=javascript,html&text_color=FFFFFF&&bg_color=0,000000,130F40&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-**Follow me on 💝**  
+## Connect with Me
 
-<a href="https://twitter.com/sinnoor_c">
+<!-- <a href="https://twitter.com/sinnoor_c">
   <img align="left" alt="Sinnoor C | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sinnoor-c/">
   <img align="left" alt="Sinnoor C | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-<br />
-
----
-
+ -->
+ <p>
+  <a href="https://www.linkedin.com/in/sinnoor-c/"><img alt="Linkedin" title="Sinnoor C | LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/sinnoorc"><img alt="Github" title="Sinnoor C | Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.facebook.com/profile.php?id=100068502775491"><img alt="Facebook" title="Sinnoor C | FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.instagram.com/sinnoor___/"><img alt="Instagram" title="Sinnoor C | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ </p>
+ 
 <br />
 
 ### Spotify Playing 🎧
