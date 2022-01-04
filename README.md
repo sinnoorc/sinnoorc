@@ -2,9 +2,12 @@
 
 
  I'm [Sinnoor C](https://www.instagram.com/sinnoor___/), a passionate self-taught **Flutter** developer from India.My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I take great care in the experience, architecture, and code quality of the things I build.
+ 
+ 
 
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
-**Languages and tools:**  
+## Languages and tools:
 
 ![https://flutter.dev/](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -32,3 +35,12 @@
 <a href="https://www.linkedin.com/in/sinnoor-c/">
   <img align="left" alt="Sinnoor C | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/wym0eogg5fqdc92gdjxw2o9go?si=kxulLaWTRKeEMN1Tqx4JVw&utm_source=copy-link&nd=1)
+
+---
