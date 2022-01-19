@@ -39,8 +39,8 @@
   <a href="https://github.com/sinnoorc"><img alt="Github" title="Sinnoor C | Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.facebook.com/profile.php?id=100068502775491"><img alt="Facebook" title="Sinnoor C | FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://www.instagram.com/sinnoor___/"><img alt="Instagram" title="Sinnoor C | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://dribbble.com/sinnoor__"><img alt="Dribbble" title="Sinnoor C | Dribbble" src=" https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a>
-  <a href="https://stackoverflow.com/users/14055208/sinnoor-c"><img alt="Stackoverflow" title="Sinnoor C | Stackoverflow" src="  https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+  <a href="https://dribbble.com/sinnoor__"><img alt="Dribbble" title="Sinnoor C | Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a>
+  <a href="https://stackoverflow.com/users/14055208/sinnoor-c"><img alt="Stackoverflow" title="Sinnoor C | Stackoverflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 
  </p>
  
