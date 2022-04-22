@@ -22,7 +22,7 @@
 
 <img src= "https://github-readme-stats.vercel.app/api?username=sinnoorc&show_icons=true&title_color=00FF00&bg_color=22272E&icon_color=00FF00&text_color=FFFFFF&include_all_commits=false&count_private=true&hide_title=true"/>
 
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sinnoorc,html&text_color=FFFFFF&&bg_color=0,000000,130F40&layout=compact" />
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sinnoorc&hide=javascript,html&text_color=FFFFFF&&bg_color=0,000000,130F40&layout=compact" />
 
 
 <!-- [![Top Langs]()] -->
