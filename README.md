@@ -1,9 +1,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 
- I'm [Sinnoor C](https://sinnoor.in), a passionate self-taught **Flutter** developer and **UI/UX enthusiast** .My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I take great care in the experience, architecture, and code quality of the things I build.
+<!-- I'm [Sinnoor C](https://sinnoor.in), a passionate self-taught **Flutter** developer and **UI/UX enthusiast** .My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I take great care in the experience, architecture, and code quality of the things I build. -->
  
- [!(https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F6F7&width=435&lines=Flutter+%7C+Swift+%7C+Vue+%7C+Laravel;Expertise+in+Mobile+Development+)]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F6F7&width=435&lines=Flutter+%7C+Swift+%7C+Vue+%7C+Laravel;Expertise+in+Mobile+Development+)](https://git.io/typing-svg)
  
 
 ---
