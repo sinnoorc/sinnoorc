@@ -6,6 +6,9 @@ a passionate self-taught **Flutter** developer and **UI/UX enthusiast** .My pass
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F732&width=435&lines=Flutter+%7C+Swift+%7C+Vue+%7C+Laravel;Expertise+in+Mobile+Development+)](https://git.io/typing-svg)
  
+<details>
+<summary>⚡️ More about my coding life</summary>
+<br />
 ## Languages and tools:
 
 <a href= "https://dart.dev/"><img src = "https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/></a>
@@ -56,6 +59,8 @@ a passionate self-taught **Flutter** developer and **UI/UX enthusiast** .My pass
  </p>
  
 <br />
+ 
+ </details>
 
 
 <!-- ### Spotify Playing 🎧
