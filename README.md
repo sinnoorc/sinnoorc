@@ -1,14 +1,11 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-I'm [Sinnoor C](https://sinnoor.in), 
+## I'm [Sinnoor C](https://sinnoor.in), 
 <!-- 
 a passionate self-taught **Flutter** developer and **UI/UX enthusiast** .My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I take great care in the experience, architecture, and code quality of the things I build. -->
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F732&width=435&lines=Flutter+%7C+Swift+%7C+Vue+%7C+Laravel;Expertise+in+Mobile+Development+)](https://git.io/typing-svg)
  
-
----
-
 ## Languages and tools:
 
 <a href= "https://dart.dev/"><img src = "https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/></a>
