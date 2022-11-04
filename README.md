@@ -9,7 +9,8 @@ a passionate self-taught **Flutter** developer and **UI/UX enthusiast** .My pass
 <details>
 <summary>⚡️ More about my coding life</summary>
 <br />
-## Languages and tools:
+ 
+Languages and tools:
 
 <a href= "https://dart.dev/"><img src = "https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/></a>
 <a href= "https://flutter.dev/"><img src = "https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/></a>
