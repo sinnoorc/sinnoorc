@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-## I'm [Sinnoor C](https://sinnoor.in), 
+## I'm [Sinnoor C](https://sinnoor.in) 👨🏻‍💻
 <!-- 
 a passionate self-taught **Flutter** developer and **UI/UX enthusiast** .My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I take great care in the experience, architecture, and code quality of the things I build. -->
  
