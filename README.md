@@ -68,3 +68,6 @@ Languages and tools:
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/wym0eogg5fqdc92gdjxw2o9go?si=kxulLaWTRKeEMN1Tqx4JVw&utm_source=copy-link&nd=1)
  -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
