@@ -68,12 +68,12 @@ Languages and tools:
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/wym0eogg5fqdc92gdjxw2o9go?si=kxulLaWTRKeEMN1Tqx4JVw&utm_source=copy-link&nd=1)
  -->
-📊 This Week I Spent My Time On
+
 
 <!--START_SECTION:waka-->
 
 ```text
-💬 Programming Languages: 
+This Week I Spent My Time On 🐥
 
 Dart   16 mins         ██████████████▒░░░░░░░░░░   56.67 %
 HTML   12 mins         ██████████▓░░░░░░░░░░░░░░   43.33 %
