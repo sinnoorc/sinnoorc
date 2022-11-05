@@ -70,4 +70,10 @@ Languages and tools:
  -->
 
 <!--START_SECTION:waka-->
+
+```text
+Dart   16 mins         ██████████████▒░░░░░░░░░░   56.67 %
+HTML   12 mins         ██████████▓░░░░░░░░░░░░░░   43.33 %
+```
+
 <!--END_SECTION:waka-->
