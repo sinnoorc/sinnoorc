@@ -32,9 +32,9 @@ Languages and tools:
 <br />
 
 
-<img src= "https://github-readme-stats.vercel.app/api?username=sinnoorc&show_icons=true&title_color=00FF00&bg_color=22272E&icon_color=00FF00&text_color=FFFFFF&include_all_commits=false&count_private=true&hide_title=true"/>
+<!--  <img src= "https://github-readme-stats.vercel.app/api?username=sinnoorc&show_icons=true&title_color=00FF00&bg_color=22272E&icon_color=00FF00&text_color=FFFFFF&include_all_commits=false&count_private=true&hide_title=true"/>
 
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sinnoorc&hide=javascript,html&text_color=FFFFFF&&bg_color=0,000000,130F40&layout=compact" />
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sinnoorc&hide=javascript,html&text_color=FFFFFF&&bg_color=0,000000,130F40&layout=compact" /> -->
 
 
 <!-- [![Top Langs]()] -->
@@ -71,7 +71,7 @@ Languages and tools:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
 
@@ -141,11 +141,4 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/sinnoorc/sinnoorc/main/charts/bar_graph.png) 
-
-
- Last Updated on 05/11/2022 07:54:03 UTC
 <!--END_SECTION:waka-->
