@@ -28,8 +28,7 @@ Languages and tools:
 <!-- ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)  -->
 
-<br />
-<br />
+
 
 
 <!--  <img src= "https://github-readme-stats.vercel.app/api?username=sinnoorc&show_icons=true&title_color=00FF00&bg_color=22272E&icon_color=00FF00&text_color=FFFFFF&include_all_commits=false&count_private=true&hide_title=true"/>
@@ -38,7 +37,6 @@ Languages and tools:
 
 
 <!-- [![Top Langs]()] -->
-
 
 ## Connect with Me
 
