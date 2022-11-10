@@ -18,4 +18,5 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_UPDATED_DATE : "False"
           SHOW_TIMEZONE : "False"
+          SHOW_PROJECTS : "False"
           
